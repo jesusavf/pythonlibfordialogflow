@@ -8,6 +8,8 @@ Esta libreria se maneja por el index.py el cual es llamado con la libreria llama
 <a style="margin-left:20px;" href="#Como-instalo-una-maquina-virtual">como instalar una maquina virtual</a>
 <br>
 <a href="#instalar-envios-request">instalar request</a>
+<br>
+<a href="#instalar-envios-jsonify">instalar request</a>
 <h1>instalaciones</h1>
 <h2>Instalar flask</h1>
 dentro de una maquina virtual intale este codigo
@@ -21,5 +23,8 @@ despues instalamos con <b>pip install Flask</b><br>
 <b>nota:</b> para verificar la instalacion se necesita el codigo <b>pip freeze</b>
 <h2>instalar envios request</h2>
 Esta libreria sirve para recoger los datos deseados por metodos POST, GET ,HEADERS tanto como datos del servidor para instalarlo basta ponerlo en la maquina virtual este codigo <b> pip install request</b>
+<h2>instalar envios jsonify</h2>
+Esta libreria crea argumentos para poder jalar las variables de una manera comoda.<br>
+para instalar basta con poner en la maquina virtual este codigo <b> pip install jsonify</b>
 
 <h1></h1>
