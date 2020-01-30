@@ -12,8 +12,6 @@ cars =[]
 msj('tal')
 
 msj=[]
-msj.append('no quieres bebe')
-msj.append('chinga tu madre')
-msj.append('joto')
-msj.append('puñal')
+msj.append('test1')
+msj.append('test2')
 return lib.rndmsj(msj)
