@@ -5,4 +5,6 @@ esta libreria se maneja por el index.py el cual es llamado con la libreria llama
 <h1>guia</h1>
 <a href="#instalarflask">instalar flask</a>
 <h1>instalar flask</h1>
+dentro de una maquina virtual intale este codigo
+<b>pip install Flask</b>
 <h1></h1>
