@@ -4,9 +4,10 @@ Es una librería de python con flask que permite usar dialogflow por su interfaz
 Esta libreria se maneja por el index.py el cual es llamado con la libreria llamada py la cual se encarga de dar los mensajes deseados
 <h1>Índice</h1>
 <a href="#Instalar-flask">instalar flask</a>
-<a href="#instalar-envios-request">instalar request</a>
 <br>
 <a style="margin-left:20px;" href="#Como-instalo-una-maquina-virtual">como instalar una maquina virtual</a>
+<br>
+<a href="#instalar-envios-request">instalar request</a>
 <h1>instalaciones</h1>
 <h2>Instalar flask</h1>
 dentro de una maquina virtual intale este codigo
