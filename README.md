@@ -12,5 +12,5 @@ dentro de una maquina virtual intale este codigo
 <h2>como instalo una maquina virtual</h2>
 al tener python instalado en el archivo de lotes path se tiene un comando llamado <b>pip</b> el cual es el encargado de instalar paquetes<br>
 como primero utilize este codigo en el directorio deseado.<b>python3 -m venv venv</b> o <b>python -m venv venv</b> o <b>py -3 -m venv venv</b> o <b>python2 -m virtualenv venv</b> si es la version dos de python.<br>
-despues de eso acceda a la maquina virtual
+despues de eso acceda a la maquina virtual con este codigo <b>. venv/bin/activate</b> o <b>venv\Scripts\activate</b>
 <h1></h1>
