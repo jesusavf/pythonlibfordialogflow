@@ -8,7 +8,7 @@ Esta libreria se maneja por el index.py el cual es llamado con la libreria llama
 <a style="margin-left:20px;" href="#Como-instalo-una-maquina-virtual">como instalar una maquina virtual</a>
 <h1>Instalar flask</h1>
 dentro de una maquina virtual intale este codigo
-<b>pip install Flask</b>
+<b>pip install Flask</b><br>
 <b>nota:</b> para verificar la instalacion se necesita el codigo <b>pip freeze</b>
 <h2>Como instalo una maquina virtual</h2>
 al tener python instalado en el archivo de lotes path se tiene un comando llamado <b>pip</b> el cual es el encargado de instalar paquetes<br>
