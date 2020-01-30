@@ -1,0 +1,19 @@
+if req.get('queryResult').get('intent').get('displayName')==nombre:
+
+t = [[[]],[[]],[[]],[[]],[[]]] 5 elementos mas botones
+t = [[[]],[[]]] 2 elementos
+t = [[[]]] 1 elemento
+
+cars =[]
+            cars.append('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgl30GEpbQvjDma-sC1DxETkEbNxB5dQ4Vbdb-x7sxQjkzCO99&s') 
+            cars.append('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgl30GEpbQvjDma-sC1DxETkEbNxB5dQ4Vbdb-x7sxQjkzCO99&s')
+            return enviarimagenes(cars,origenes())
+
+msj('tal')
+
+msj=[]
+msj.append('no quieres bebe')
+msj.append('chinga tu madre')
+msj.append('joto')
+msj.append('puñal')
+return lib.rndmsj(msj)
