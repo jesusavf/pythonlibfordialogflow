@@ -4,6 +4,7 @@ es una librería de python con flask que permite usar dialogflow por su interfaz
 esta libreria se maneja por el index.py el cual es llamado con la libreria llamada py la cual se encarga de dar los mensajes deseados
 <h1>guia</h1>
 <a href="#instalarflask">instalar flask</a>
+<br>
 <a style="margin-left:20px;" href="#como">como instalar una maquina virtual</a>
 <h1 id=#instalarflask>instalar flask</h1>
 dentro de una maquina virtual intale este codigo
