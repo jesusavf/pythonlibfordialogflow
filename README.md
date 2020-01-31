@@ -24,7 +24,7 @@ despues instalamos con <b>pip install Flask</b><br>
 <h2>instalar envios request</h2>
 Esta libreria sirve para recoger los datos deseados por metodos POST, GET ,HEADERS tanto como datos del servidor para instalarlo basta ponerlo en la maquina virtual este codigo <b> pip install request</b>
 <h2>instalar envios jsonify</h2>
-Esta libreria crea argumentos para poder jalar las variables de una manera comoda.<br>
+Esta libreria crea argumentos para poder tirar las variables de una manera comoda.<br>
 para instalar basta con poner en la maquina virtual este codigo <b> pip install jsonify</b>
 <h2>instalar para linux y mac</h1>
 <b>nota: si este es subido ha heroku puede usarse en windows</b>
