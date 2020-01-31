@@ -20,6 +20,13 @@ def instancia(nombre):
     else:
         return False
 
+def acciones():
+    req = request.get_json(force=True)
+    if req.get('queryResult').get('action'):
+        return req.get('queryResult').get('action')
+    else:
+        return ''
+
 def variable(nombre):
     req = request.get_json(force=True)
     if req.get('queryResult').get('parameters').get(nombre):
