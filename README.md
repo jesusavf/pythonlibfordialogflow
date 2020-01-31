@@ -9,7 +9,7 @@ Esta libreria se maneja por el index.py el cual es llamado con la libreria llama
 <br>
 <a href="#instalar-envios-request">instalar request</a>
 <br>
-<a href="#instalar-envios-jsonify">instalar jsonify</a>
+<a href="#instalar-envios-jsonify">como usarlo</a>
 <br>
 <a href="#guía-de-uso-1">instalar flask</a>
 <h1>instalaciones</h1>
