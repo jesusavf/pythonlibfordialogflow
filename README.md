@@ -41,3 +41,5 @@ para instalar basta con poner en la maquina virtual este codigo <b> pip install 
  <li>docker</li>
 </ul>
 <h1>guía de uso</h1>
+<h2>nota para windows</h2>
+si esta usando windows home necesita subirlo a algun servidor o eliminar index.py para remplazarlo por indexparawindows.py y no correrlo por gunicorn si no por <b>python indexparawindows.py</b><br>
