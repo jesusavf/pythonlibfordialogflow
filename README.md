@@ -33,3 +33,8 @@ para instalar basta con poner en la maquina virtual este codigo <b> pip install 
  <h3>instalar waitress</h3>
  para proceder con la instalacion basta con la instalacion de waitress es tan simple como poner en la linea de comandos <b>pip install waitress</b><br>
  <b>nota: para poder usar el index para windows ocupas como primero configurar indexparawindows.py a app.run(host='0.0.0.0', port=3000) como el deseado como ejemplo:  app.run(host='127.0.0.1', port=3000) </b>
+ <h2>sitios adaptados para esta libreria</h2>
+<ul>
+ <li>heroku</li>
+ <li>docker</li>
+</ul>
