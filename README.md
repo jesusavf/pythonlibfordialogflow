@@ -26,5 +26,9 @@ Esta libreria sirve para recoger los datos deseados por metodos POST, GET ,HEADE
 <h2>instalar envios jsonify</h2>
 Esta libreria crea argumentos para poder jalar las variables de una manera comoda.<br>
 para instalar basta con poner en la maquina virtual este codigo <b> pip install jsonify</b>
-
-<h1></h1>
+<h2>instalar para linux y mac</h1>
+<b>nota: si este es subido ha heroku puede usarse en windows</b>
+<h3>instalar gunicorn<h2>
+ para proceder con la instalacion se puede con la instalacion basta con poner en la linea de comandos <b>pip install gunicorn</b>
+ <h3>instalar waitress<h3>
+ para proceder con la instalacion basta con la instalacion de waitress es tan simple como poner en la linea de comandos <b>pip install waitress</b>
