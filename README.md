@@ -32,3 +32,4 @@ para instalar basta con poner en la maquina virtual este codigo <b> pip install 
  para proceder con la instalacion se puede con la instalacion basta con poner en la linea de comandos <b>pip install gunicorn</b>
  <h3>instalar waitress</h3>
  para proceder con la instalacion basta con la instalacion de waitress es tan simple como poner en la linea de comandos <b>pip install waitress</b>
+ <b>nota: para poder usar el index para windows ocupas como primero configurar a app.run(host='0.0.0.0', port=3000) como el deseado </b>
